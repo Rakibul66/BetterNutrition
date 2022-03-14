@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.better.nutritiontherapy">
+
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" tools:node="remove"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        android:usesCleartextTraffic="true">
+        <activity
+            android:name="com.better.nutritiontherapy.DetailsActivity"
+            android:screenOrientation="nosensor" />
+        <activity android:name="com.better.nutritiontherapy.breathe.FiveSecondBreathActivity"></activity>
+        <activity
+            android:name="com.better.nutritiontherapy.ApiActivity"
+            android:parentActivityName="com.better.nutritiontherapy.HomeScreen.MainActivity"
+            android:screenOrientation="nosensor" />
+        <activity
+            android:name="com.better.nutritiontherapy.SignActivity"
+            android:parentActivityName="com.better.nutritiontherapy.HomeScreen.MainActivity" />
+        <activity
+            android:name="com.better.nutritiontherapy.CreatePostActivity"
+            android:screenOrientation="nosensor" />
+        <activity
+            android:name="com.better.nutritiontherapy.ProfileActivity"
+            android:screenOrientation="nosensor" />
+        <activity
+            android:name="com.better.nutritiontherapy.HomeActivity"
+            android:screenOrientation="nosensor" />
+        <activity
+            android:name="com.better.nutritiontherapy.LoginActivity"
+            android:screenOrientation="nosensor" />
+        <activity
+            android:name="com.better.nutritiontherapy.SignUpActivity"
+            android:screenOrientation="nosensor" />
+        <activity android:name="com.better.nutritiontherapy.ForgotpassActivity" />
+        <activity
+            android:name="com.better.nutritiontherapy.MomCOpenActivity"
+            android:screenOrientation="nosensor" />
+        <activity
+            android:name="com.better.nutritiontherapy.MomchildActivity"
+            android:parentActivityName="com.better.nutritiontherapy.HomeScreen.MainActivity"
+            android:screenOrientation="nosensor" />
+        <activity
+            android:name="com.better.nutritiontherapy.ViewBookActivity"
+            android:parentActivityName="com.better.nutritiontherapy.HomeActivity2" />
+        <activity
+            android:name="com.better.nutritiontherapy.HomeActivity2"
+            android:screenOrientation="nosensor" />
+        <activity
+            android:name="com.better.nutritiontherapy.RogNirnoyActivity"
+            android:parentActivityName="com.better.nutritiontherapy.HomeScreen.MainActivity"
+            android:screenOrientation="nosensor" />
+        <activity
+            android:name="com.better.nutritiontherapy.HomeScreen.MainActivity"
+            android:screenOrientation="nosensor"
+            android:theme="@style/AppTheme"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.better.nutritiontherapy.HealthTipsActivity"
+            android:parentActivityName="com.better.nutritiontherapy.HomeScreen.MainActivity"
+            android:screenOrientation="nosensor" />
+        <activity
+            android:name="com.better.nutritiontherapy.DiseaseActivity"
+            android:parentActivityName="com.better.nutritiontherapy.HomeScreen.MainActivity"
+            android:screenOrientation="nosensor" />
+        <activity
+            android:name="com.better.nutritiontherapy.NewVitaminOpenActivity"
+            android:screenOrientation="nosensor" />
+        <activity
+            android:name="com.better.nutritiontherapy.NewVitaminActivity"
+            android:parentActivityName="com.better.nutritiontherapy.HomeScreen.MainActivity"
+            android:screenOrientation="nosensor" />
+        <activity
+            android:name="com.better.nutritiontherapy.VesosActivity"
+            android:parentActivityName="com.better.nutritiontherapy.HomeScreen.MainActivity"
+            android:screenOrientation="nosensor" />
+        <activity
+            android:name="com.better.nutritiontherapy.VegActivity"
+            android:parentActivityName="com.better.nutritiontherapy.VarioufoodActivity"
+            android:screenOrientation="nosensor" />
+        <activity
+            android:name="com.better.nutritiontherapy.FatsoilActivity"
+            android:parentActivityName="com.better.nutritiontherapy.VarioufoodActivity"
+            android:screenOrientation="nosensor" />
+        <activity
+            android:name="com.better.nutritiontherapy.NonvegActivity"
+            android:parentActivityName="com.better.nutritiontherapy.VarioufoodActivity"
+            android:screenOrientation="nosensor" />
+        <activity
+            android:name="com.better.nutritiontherapy.VarioufoodActivity"
+            android:parentActivityName="com.better.nutritiontherapy.HomeScreen.MainActivity"
+            android:screenOrientation="nosensor" />
+        <activity
+            android:name="com.better.nutritiontherapy.Book2Activity"
+            android:screenOrientation="nosensor" />
+        <activity
+            android:name="com.better.nutritiontherapy.About_appActivity"
+            android:parentActivityName="com.better.nutritiontherapy.HomeScreen.MainActivity"
+            android:screenOrientation="nosensor" />
+        <activity
+            android:name="com.better.nutritiontherapy.nutrientsgridActivity"
+            android:screenOrientation="nosensor" />
+        <activity
+            android:name="com.better.nutritiontherapy.Nutrient_sourceActivity"
+            android:parentActivityName="com.better.nutritiontherapy.HomeScreen.MainActivity"
+            android:screenOrientation="nosensor" />
+        <activity
+            android:name="com.better.nutritiontherapy.firstaidActivity"
+            android:screenOrientation="nosensor" />
+        <!-- <activity android:name="com.example.nutration.fbActivity" /> -->
+        <activity
+            android:name="com.better.nutritiontherapy.Details"
+            android:parentActivityName="com.better.nutritiontherapy.HomeScreen.MainActivity"
+            android:screenOrientation="nosensor">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.better.nutritiontherapy.HomeScreen.MainActivity" />
+        </activity>
+        <meta-data
+            android:name="com.startapp.sdk.APPLICATION_ID"
+            android:value="202630476" />
+    </application>
+
+</manifest>

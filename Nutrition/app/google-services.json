@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "598807487222",
+    "firebase_url": "https://book-app-533c9.firebaseio.com",
+    "project_id": "book-app-533c9",
+    "storage_bucket": "book-app-533c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598807487222:android:cd5e1a0d84ae88487482d7",
+        "android_client_info": {
+          "package_name": "com.bdnutritionist.nutritionadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598807487222-qg9p6s7s1819k73argugbvlbfblg9hec.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bdnutritionist.nutritionadmin",
+            "certificate_hash": "3c5ab3e2cc64d7ffd227ad8d2a6606ecdb4c8646"
+          }
+        },
+        {
+          "client_id": "598807487222-mkca0jtn9etmt69lci98223l8h9ktnml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQl-teWEqYstMSptd618YV0nst-SsSXeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598807487222-mkca0jtn9etmt69lci98223l8h9ktnml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598807487222:android:e16a6e9401750e757482d7",
+        "android_client_info": {
+          "package_name": "com.better.nutritiontherapy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598807487222-mkca0jtn9etmt69lci98223l8h9ktnml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQl-teWEqYstMSptd618YV0nst-SsSXeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598807487222-mkca0jtn9etmt69lci98223l8h9ktnml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598807487222:android:ef8815c304723c537482d7",
+        "android_client_info": {
+          "package_name": "com.map.nutritiontherapy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598807487222-f36h1slm2fk63vf9ni5aopje1nq514v8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.map.nutritiontherapy",
+            "certificate_hash": "3c5ab3e2cc64d7ffd227ad8d2a6606ecdb4c8646"
+          }
+        },
+        {
+          "client_id": "598807487222-mkca0jtn9etmt69lci98223l8h9ktnml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQl-teWEqYstMSptd618YV0nst-SsSXeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598807487222-mkca0jtn9etmt69lci98223l8h9ktnml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

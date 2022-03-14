@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android Native/Java Project/Fitness App/Nutrition Therapy/Nutrition/app/src/main/res/layout/activity_about_app.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android Native/Java Project/Fitness App/Nutrition Therapy/Nutrition/app/src/main/res/layout/activity_api.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android Native/Java Project/Fitness App/Nutrition Therapy/Nutrition/app/src/main/res/layout/activity_blood.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android Native/Java Project/Fitness App/Nutrition Therapy/Nutrition/app/src/main/res/layout/activity_bmi.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android Native/Java Project/Fitness App/Nutrition Therapy/Nutrition/app/src/main/res/layout/activity_book2.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android Native/Java Project/Fitness App/Nutrition Therapy/Nutrition/app/src/main/res/layout/activity_create_post.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android Native/Java Project/Fitness App/Nutrition Therapy/Nutrition/app/src/main/res/layout/activity_details.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android Native/Java Project/Fitness App/Nutrition Therapy/Nutrition/app/src/main/res/layout/activity_disease.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android Native/Java Project/Fitness App/Nutrition Therapy/Nutrition/app/src/main/res/layout/activity_email.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android Native/Java Project/Fitness App/Nutrition Therapy/Nutrition/app/src/main/res/layout/activity_fatsoil.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android Native/Java Project/Fitness App/Nutrition Therapy/Nutrition/app/src/main/res/layout/activity_firstaid.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android Native/Java Project/Fitness App/Nutrition Therapy/Nutrition/app/src/main/res/layout/activity_health_tips.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android Native/Java Project/Fitness App/Nutrition Therapy/Nutrition/app/src/main/res/layout/activity_nutritionist.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android Native/Java Project/Fitness App/Nutrition Therapy/Nutrition/app/src/main/res/layout/activity_profile.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android Native/Java Project/Fitness App/Nutrition Therapy/Nutrition/app/src/main/res/layout/activity_varioufood.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android Native/Java Project/Fitness App/Nutrition Therapy/Nutrition/app/src/main/res/layout/app_upgrade.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android Native/Java Project/Fitness App/Nutrition Therapy/Nutrition/app/src/main/res/layout/cardveiw_item_book3.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android Native/Java Project/Fitness App/Nutrition Therapy/Nutrition/app/src/main/res/layout/fragment_about.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android Native/PlaystoreMyself/Nutrition Therapy/Nutrition/app/src/main/res/drawable/ic_forum.xml" value="0.2203125" />
+        <entry key="..\:/Android Native/PlaystoreMyself/Nutrition Therapy/Nutrition/app/src/main/res/layout-large/activity_five_second_breath.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android Native/PlaystoreMyself/Nutrition Therapy/Nutrition/app/src/main/res/layout-normal/activity_five_second_breath.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android Native/PlaystoreMyself/Nutrition Therapy/Nutrition/app/src/main/res/layout-small/activity_five_second_breath.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android Native/PlaystoreMyself/Nutrition Therapy/Nutrition/app/src/main/res/layout-xlarge/activity_five_second_breath.xml" value="0.10347222222222222" />
+        <entry key="..\:/Android Native/PlaystoreMyself/Nutrition Therapy/Nutrition/app/src/main/res/layout/activity_about_app.xml" value="0.13796296296296295" />
+        <entry key="..\:/Android Native/PlaystoreMyself/Nutrition Therapy/Nutrition/app/src/main/res/layout/activity_api.xml" value="0.16944444444444445" />
+        <entry key="..\:/Android Native/PlaystoreMyself/Nutrition Therapy/Nutrition/app/src/main/res/layout/activity_blood.xml" value="0.1" />
+        <entry key="..\:/Android Native/PlaystoreMyself/Nutrition Therapy/Nutrition/app/src/main/res/layout/activity_book2.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android Native/PlaystoreMyself/Nutrition Therapy/Nutrition/app/src/main/res/layout/activity_create_post.xml" value="0.16944444444444445" />
+        <entry key="..\:/Android Native/PlaystoreMyself/Nutrition Therapy/Nutrition/app/src/main/res/layout/activity_details.xml" value="0.16944444444444445" />
+        <entry key="..\:/Android Native/PlaystoreMyself/Nutrition Therapy/Nutrition/app/src/main/res/layout/activity_details2.xml" value="0.16944444444444445" />
+        <entry key="..\:/Android Native/PlaystoreMyself/Nutrition Therapy/Nutrition/app/src/main/res/layout/activity_disease.xml" value="0.16944444444444445" />
+        <entry key="..\:/Android Native/PlaystoreMyself/Nutrition Therapy/Nutrition/app/src/main/res/layout/activity_firstaid.xml" value="0.1" />
+        <entry key="..\:/Android Native/PlaystoreMyself/Nutrition Therapy/Nutrition/app/src/main/res/layout/activity_five_second_breath.xml" value="0.15" />
+        <entry key="..\:/Android Native/PlaystoreMyself/Nutrition Therapy/Nutrition/app/src/main/res/layout/activity_health_tips.xml" value="0.16944444444444445" />
+        <entry key="..\:/Android Native/PlaystoreMyself/Nutrition Therapy/Nutrition/app/src/main/res/layout/activity_home.xml" value="0.1" />
+        <entry key="..\:/Android Native/PlaystoreMyself/Nutrition Therapy/Nutrition/app/src/main/res/layout/activity_home2.xml" value="0.1" />
+        <entry key="..\:/Android Native/PlaystoreMyself/Nutrition Therapy/Nutrition/app/src/main/res/layout/activity_momchild.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android Native/PlaystoreMyself/Nutrition Therapy/Nutrition/app/src/main/res/layout/activity_nonveg.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android Native/PlaystoreMyself/Nutrition Therapy/Nutrition/app/src/main/res/layout/activity_profile.xml" value="0.15" />
+        <entry key="..\:/Android Native/PlaystoreMyself/Nutrition Therapy/Nutrition/app/src/main/res/layout/activity_recipe.xml" value="0.16944444444444445" />
+        <entry key="..\:/Android Native/PlaystoreMyself/Nutrition Therapy/Nutrition/app/src/main/res/layout/activity_rog_nirnoy.xml" value="0.1" />
+        <entry key="..\:/Android Native/PlaystoreMyself/Nutrition Therapy/Nutrition/app/src/main/res/layout/activity_sign.xml" value="0.16944444444444445" />
+        <entry key="..\:/Android Native/PlaystoreMyself/Nutrition Therapy/Nutrition/app/src/main/res/layout/activity_varioufood.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android Native/PlaystoreMyself/Nutrition Therapy/Nutrition/app/src/main/res/layout/activity_veg.xml" value="0.1" />
+        <entry key="..\:/Android Native/PlaystoreMyself/Nutrition Therapy/Nutrition/app/src/main/res/layout/activity_vesos.xml" value="0.1" />
+        <entry key="..\:/Android Native/PlaystoreMyself/Nutrition Therapy/Nutrition/app/src/main/res/layout/activity_view_book.xml" value="0.16944444444444445" />
+        <entry key="..\:/Android Native/PlaystoreMyself/Nutrition Therapy/Nutrition/app/src/main/res/layout/books_layout.xml" value="0.16944444444444445" />
+        <entry key="..\:/Android Native/PlaystoreMyself/Nutrition Therapy/Nutrition/app/src/main/res/layout/fragment_blog.xml" value="0.13796296296296295" />
+        <entry key="..\:/Android Native/PlaystoreMyself/Nutrition Therapy/Nutrition/app/src/main/res/layout/fragment_more.xml" value="0.33" />
+        <entry key="..\:/Android Native/PlaystoreMyself/Nutrition Therapy/Nutrition/app/src/main/res/layout/fragment_post.xml" value="0.1" />
+        <entry key="..\:/Android Native/PlaystoreMyself/Nutrition Therapy/Nutrition/app/src/main/res/layout/profile_layout.xml" value="0.16944444444444445" />
+        <entry key="..\:/Android Native/PlaystoreMyself/Nutrition Therapy/Nutrition/app/src/main/res/layout/progress_dialog.xml" value="0.16944444444444445" />
+        <entry key="..\:/Android Native/PlaystoreMyself/Nutrition Therapy/Nutrition/app/src/main/res/menu/drawer_menu.xml" value="0.20102564102564102" />
+        <entry key="..\:/Android Native/PlaystoreMyself/Nutrition Therapy/Nutrition/app/src/main/res/menu/edit_post_menu.xml" value="0.13796296296296295" />
+        <entry key="..\:/Android Native/PlaystoreMyself/Nutrition Therapy/Nutrition/app/src/main/res/menu/menu.xml" value="0.13796296296296295" />
+        <entry key="..\:/Android Native/PlaystoreMyself/Nutrition Therapy/Nutrition/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

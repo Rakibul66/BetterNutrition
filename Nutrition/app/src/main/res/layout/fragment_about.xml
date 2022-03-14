@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fff"
+    android:orientation="vertical"
+   >
+
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:layout_marginTop="10dp"
+            android:layout_height="match_parent">
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                app:cardBackgroundColor="#fefefe"
+                android:layout_margin="4dp"
+                android:layout_height="120dp">
+                <ImageView
+                    android:layout_width="100dp"
+                    android:layout_gravity="left"
+                    android:layout_marginTop="8dp"
+                    android:layout_marginLeft="8dp"
+
+                    android:src="@drawable/logo2"
+                    android:layout_height="80dp"/>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_marginTop="14dp"
+                    android:orientation="vertical"
+                    android:gravity="center"
+
+                    android:layout_height="match_parent">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:text="BD Nutritionist"
+                        android:textColor="#000"
+                        android:textSize="20sp"
+                        android:layout_height="wrap_content">
+
+                    </TextView>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:text="Version 6.0.7"
+                        android:textColor="#000"
+                        android:layout_height="match_parent">
+
+                    </TextView>
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                app:cardBackgroundColor="#fefefe"
+                android:layout_margin="4dp"
+                android:id="@+id/devid"
+                android:layout_marginTop="10dp"
+                android:layout_height="120dp">
+                <ImageView
+                    android:layout_width="80dp"
+                    android:layout_gravity="left"
+                    android:layout_marginTop="8dp"
+                    android:layout_marginLeft="8dp"
+
+                    android:src="@drawable/ic_chevron_right_black_24dp"
+                    android:layout_height="80dp">
+
+                </ImageView>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_marginTop="14dp"
+                    android:orientation="vertical"
+                    android:gravity="center"
+
+                    android:layout_height="match_parent">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:text="ডেভেলপার সম্পর্কে"
+                        android:textColor="#000"
+                        android:textSize="20sp"
+                        android:layout_height="wrap_content">
+
+                    </TextView>
+
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:text="01315861003"
+                        android:gravity="center"
+                        android:id="@+id/dev_call"
+                        android:padding="5dp"
+                        android:layout_margin="5dp"
+                        android:drawableLeft="@drawable/ic_call_black_24dp"
+                        android:textColor="#000"
+                        android:layout_height="match_parent">
+
+                    </TextView>
+
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_margin="4dp"
+                android:id="@+id/rateid"
+                app:cardBackgroundColor="#fefefe"
+                android:layout_marginTop="10dp"
+                android:layout_height="wrap_content">
+                <ImageView
+                    android:layout_width="60dp"
+                    android:layout_gravity="left"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginLeft="18dp"
+
+                    android:src="@drawable/ic_rate_review_black_24dp"
+                    android:layout_height="60dp">
+
+                </ImageView>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_marginTop="14dp"
+                    android:orientation="vertical"
+                    android:gravity="center"
+
+                    android:layout_height="match_parent">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:text="রেটিং"
+                        android:textColor="#000"
+                        android:textSize="20sp"
+                        android:layout_height="wrap_content">
+
+                    </TextView>
+
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:text="রেটিং দিন"
+                        android:layout_marginTop="10dp"
+                        android:layout_margin="5dp"
+                        android:gravity="center"
+                        android:textColor="#000"
+                        android:layout_height="match_parent">
+
+                    </TextView>
+
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_margin="4dp"
+                app:cardBackgroundColor="#fefefe"
+                android:id="@+id/fbid"
+                android:layout_marginTop="10dp"
+                android:layout_height="wrap_content">
+                <ImageView
+                    android:layout_width="50dp"
+                    android:layout_gravity="left"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginLeft="19dp"
+
+                    android:src="@drawable/facebook"
+                    android:layout_height="50dp">
+
+                </ImageView>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_marginTop="14dp"
+                    android:orientation="vertical"
+                    android:gravity="center"
+
+                    android:layout_height="match_parent">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:text="অ্যাপের উদ্যোক্তা"
+                        android:textColor="#000"
+                        android:textSize="20sp"
+                        android:layout_height="wrap_content">
+
+                    </TextView>
+
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:text="facebook"
+                        android:layout_marginTop="10dp"
+                        android:layout_margin="5dp"
+                        android:gravity="center"
+                        android:textColor="#000"
+                        android:layout_height="match_parent">
+
+                    </TextView>
+
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+
+
+
+
+        </LinearLayout>
+
+
+
+    </ScrollView>
+
+</LinearLayout>

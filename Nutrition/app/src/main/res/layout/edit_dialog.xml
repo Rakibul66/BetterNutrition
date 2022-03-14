@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:id="@+id/layout"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="15dp"
+    android:background="@drawable/edit_bg">
+
+    <EditText
+        android:id="@+id/edit_detail"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginEnd="15dp"
+        android:paddingStart="10dp"
+        android:paddingEnd="5dp"
+        android:hint="Your text here..."
+        android:layout_toStartOf="@id/save"
+        android:background="@drawable/et_bt"/>
+
+    <TextView
+        android:id="@+id/save"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:text="Save"
+        android:gravity="center"
+        android:layout_centerVertical="true"
+        android:layout_alignParentEnd="true"
+        android:background="@drawable/save_bg"
+        android:textColor="#ffffff"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:paddingStart="15dp"
+        android:paddingEnd="15dp"/>
+
+</RelativeLayout>
